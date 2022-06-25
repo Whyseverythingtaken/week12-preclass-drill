@@ -2,9 +2,9 @@
   "name": "week12-preclass-drill",
   "version": "1.0.0",
   "description": "",
-  "main": "index.test.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Whyseverythingtaken/week12-preclass-drill/issues"
   },
-  "homepage": "https://github.com/Whyseverythingtaken/week12-preclass-drill#readme"
+  "homepage": "https://github.com/Whyseverythingtaken/week12-preclass-drill#readme",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
 }
